@@ -16,11 +16,11 @@
     "react-dom": "^18.2.0",
     "react-query": "^3.39.3",
     "react-router-dom": "^6.14.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "styled-components": "^6.0.5",
     "web-vitals": "^2.1.4"
   },
-  "proxy": "http://49.50.162.61:8088",
+  "proxy": "http://localhost",
   "scripts": {
     "start": "set PORT=3008 && react-scripts start",
     "build": "react-scripts build",
